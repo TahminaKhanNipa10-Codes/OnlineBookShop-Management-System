@@ -23,7 +23,7 @@ This is a **Professional Database Project** developed during my intensive Softwa
 The following ER Diagram illustrates the complete schema design and relationship logic of the system.
 
 <p align="center">
-  <img src="Diagrams/image_e4731a.png" alt="Database Schema Design" width="100%">
+  <img src="Diagrams/image_30edfc.png" alt="Database Schema Design" width="100%">
 </p>
 
 ## 📂 Project Structure
